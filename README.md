@@ -1,4 +1,4 @@
-# Pirate Notebook
+# Pirate Notebook - Full Stack MERN project
 ## Steps to download app<br/>
 1) download the repo
 2) Extract the files
